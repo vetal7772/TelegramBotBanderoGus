@@ -19,6 +19,8 @@ public class Main extends TelegramLongPollingBot {
     //Banderogus_01_01_1909_GoitBot
     //5872287115:AAEs7SFvadiylPu53gHt_Lr7tSxjmjoZUt0
 
+
+
     private Map<Long, Integer> levels = new HashMap<>();
 
     public static void main(String[] args) throws TelegramApiException {
